@@ -11,4 +11,4 @@ A simple currency converter that fetches real-time exchange rates using an API a
 ## Installation 🔧
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/ewoldan/currency-converter.git
